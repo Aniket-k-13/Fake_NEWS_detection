@@ -61,7 +61,7 @@ In this project, we process textual data and train a classification model to ide
 
 ## 📁 Project Structure
 
-```
+
 
 Fake-News-Detection/
 │
@@ -74,7 +74,7 @@ Fake-News-Detection/
 │
 ├── README.md
 
-```
+
 
 ---
 

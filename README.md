@@ -66,8 +66,8 @@ In this project, we process textual data and train a classification model to ide
 Fake-News-Detection/
 │
 ├── data/
-│   ├── train.csv
-│   ├── test.csv
+│   ├── fake_news_dataset.csv
+│   
 │
 ├── notebook/
 │   └── fake_news_prediction.ipynb

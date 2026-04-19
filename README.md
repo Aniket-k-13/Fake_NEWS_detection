@@ -1,6 +1,5 @@
-Perfect 🔥 — a strong README will make your GitHub look **much more professional** (this is what recruiters actually open).
 
-Here’s a **clean, professional README.md** for your Fake News Detection project 👇
+
 
 ---
 
